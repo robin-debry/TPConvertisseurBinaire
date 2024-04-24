@@ -8,7 +8,7 @@ Tout d'abord, demander a l'utilisateur une valeur décimale a convertir.
 Ensuite, lire la valeur décimale entrée par l'utilisateur.
 Enfin convertissez la valeur entrée en binaire.
 
-Attention a ne pas pouvoir entrer une valeur qui n'est pas entre 0 et 255. De plus il devra être impossible d'entrer un caractère.
+Attention, il ne devra pas être possible d'entrer une valeur qui n'est pas entre 0 et 255. De plus il devra être impossible d'entrer un caractère.
 
 
 Le résultat attendu est semblable à celui-ci :
