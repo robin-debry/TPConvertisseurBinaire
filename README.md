@@ -7,6 +7,7 @@ Pour ce faire, vous allez écrire un script qui aura la capacité de convertir u
 Le résultat attendu est semblable à celui-ci :
 
 <img width="220" alt="Screenshot 2024-04-24 at 12 54 21" src="https://github.com/robin-debry/TPConvertisseurBinaire/assets/91249812/9c2f6859-2cf2-4bcf-9097-cda9b58ec7c2">
+
 Pour les plus avancés, vous pouvez également faire la conversion dans le sens inverse, donc de convertir du binaire en décimal.
 
 Rappel: 
